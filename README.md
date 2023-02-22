@@ -28,5 +28,6 @@ The server started simply returns a `Hello World` payload. The server code is lo
 https://juejin.cn/post/7201757033322233914
 
 
+https://chatgpt-nodejs-production-dc3a.up.railway.app/chat?prompt=周杰伦是谁
 
 https://chatgpt-nodejs-production-dc3a.up.railway.app/image?prompt=复活的清晨
